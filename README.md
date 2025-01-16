@@ -1,2 +1,3 @@
-https://archive.ics.uci.edu/dataset/422/wireless+indoor+localization
+I udes this dataset: https://archive.ics.uci.edu/dataset/422/wireless+indoor+localization
 
+wifi rssi: I developed a machine learning model that uses wifi rssi values to classify which of 4 different rooms the phone is in. I used different algorithms and compared which one was more successful and observed how the efficiency was achieved in fewer dimensions by performing LDA dimensionality reduction. The model has a success rate of about 98%.
